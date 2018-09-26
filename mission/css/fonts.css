@@ -1,0 +1,7 @@
+@font-face {
+	font-family:"NotoSansCJKkr";
+	src:url("../fonts/NotoSansCJKkr.eot");
+	src:url("../fonts/NotoSansCJKkr.eot?#iefix") format("embedded-opentype"),
+	    url("../fonts/NotoSansCJKkr.woff") format("woff"),
+	    url(../fonts/NotoSansCJKkr.otf) format('truetype');
+}

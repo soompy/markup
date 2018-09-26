@@ -1,0 +1,136 @@
+#header {
+    position: relative;
+    width: 1600px;
+    height: 80px;
+    margin: auto;
+    background-color: #ffffff;
+}
+.logo-CR {
+    position: absolute;
+    left: 160px;
+    top: 28px;
+}
+#header h1 img{
+    width: 154px;
+    height: 24px;
+}
+#gnb {
+    position: absolute;
+    left: 889px;
+}
+#gnb li {
+  float: left;
+  margin-right: 40px;
+}
+#gnb li a{
+  font-family: "NotoSansCJKkr";
+  font-size: 16px;    
+  color: #5f696e;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 5;
+  letter-spacing: normal;    
+}
+#gnb li:last-child a{
+    font-weight: bold;
+}
+li.Line-4{
+  height: 16px;
+  border: solid 1px #5f696e;
+  margin-top: 32px;
+}
+
+#footer {
+  position: relative;
+  width: 1600px;
+  margin: auto;
+  height: 260px;
+  background-color: #f9fafb;    
+}
+#footer .inner{
+  width: 1116px;
+  margin: auto;
+}
+.logo-gray{
+  margin-top: 60px;
+  margin-bottom: 28.8px;
+}
+#footer menu li{
+  float: left;
+}
+.low{
+  float: left;   
+}
+.menu li{
+  float: left;
+  margin-right: 36px;
+}
+.menu li:last-child{
+  margin-right: 0;
+}
+.menu p{
+  font-family: "NotoSansCJKkr";
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  color: #5f696e; 
+  cursor: pointer;
+}
+.menu span{
+  font-family: "NotoSansCJKkr";
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  color: #97a4a9; 
+  display: block;
+  cursor: pointer;
+}
+
+.about{
+  float: right;
+  margin-left: 76px;
+}
+.about p{
+  font-family: "NotoSansCJKkr";
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  color: #97a4a9;    
+}
+.util-menu{
+   margin-top: 12px; 
+}
+.util-menu li{
+  float: left;
+  margin-right: 20px;
+}
+.util-menu li:last-child{
+  margin-right: 0;
+}
+.util-menu li a{
+  width: 39px;
+  height: 20px;
+  font-family: "NotoSansCJKkr";
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  color: #5f696e;    
+}
+.w-menu{
+    display: block;
+}
+.m-menu{
+	display: none;
+}
